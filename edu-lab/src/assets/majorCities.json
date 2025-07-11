@@ -1,0 +1,12 @@
+[
+    { "name": "北京", "coordinates": [0.728, 0.692] },
+    { "name": "上海", "coordinates": [0.84, 0.44] },
+    { "name": "广州", "coordinates": [0.70, 0.20] },
+    { "name": "深圳", "coordinates": [0.72, 0.18] },
+    { "name": "成都", "coordinates": [0.45, 0.42] },
+    { "name": "重庆", "coordinates": [0.52, 0.40] },
+    { "name": "杭州", "coordinates": [0.82, 0.40] },
+    { "name": "武汉", "coordinates": [0.72, 0.42] },
+    { "name": "西安", "coordinates": [0.59, 0.55] },
+    { "name": "郑州", "coordinates": [0.70, 0.56] }
+] 

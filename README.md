@@ -1,4 +1,4 @@
-# 12306-teacher
+
 # 12306 高并发系统可视化教学平台
 
 ## 🚀 项目定位
@@ -122,3 +122,42 @@ graph LR
    ```
 
 打开浏览器访问 `http://localhost:5173` (或Vite指定的端口) 即可开始。 
+
+---
+
+## 解决步骤
+
+1. **手动解决冲突**  
+   - 打开 `README.md` 文件，你会看到类似如下内容：
+     ```
+     <<<<<<< HEAD
+     ...（本地内容）...
+     =======
+     ...（远程内容）...
+     >>>>>>> main
+     ```
+   - 保留你想要的内容，删除冲突标记（`<<<<<<<`, `=======`, `>>>>>>>`）。
+
+2. **标记冲突已解决并继续 rebase**
+   ```sh
+   git add README.md
+   git rebase --continue
+   ```
+
+3. **最后再推送**
+   ```sh
+   git push -u origin main
+   ```
+
+---
+
+### 你只需：
+- 先解决 `README.md` 文件冲突（保留你想要的内容）。
+- 然后依次执行：
+  ```sh
+  git add README.md
+  git rebase --continue
+  git push -u origin main
+  ```
+
+如需我帮你自动处理 README.md 冲突，请回复“自动保留本地 README”或“自动保留远程 README”，我会帮你完成后续命令！

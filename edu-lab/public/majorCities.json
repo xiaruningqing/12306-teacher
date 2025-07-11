@@ -1,0 +1,14 @@
+[
+  { "name": "北京", "coordinates": [116.4074, 39.9042] },
+  { "name": "上海", "coordinates": [121.4737, 31.2304] },
+  { "name": "广州", "coordinates": [113.2644, 23.1291] },
+  { "name": "深圳", "coordinates": [114.0579, 22.5431] },
+  { "name": "成都", "coordinates": [104.0668, 30.5728] },
+  { "name": "重庆", "coordinates": [106.5516, 29.5630] },
+  { "name": "武汉", "coordinates": [114.3055, 30.5928] },
+  { "name": "西安", "coordinates": [108.9402, 34.3416] },
+  { "name": "杭州", "coordinates": [120.1551, 30.2741] },
+  { "name": "郑州", "coordinates": [113.6254, 34.7466] },
+  { "name": "沈阳", "coordinates": [123.4315, 41.8057] },
+  { "name": "乌鲁木齐", "coordinates": [87.6177, 43.7928] }
+] 

@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "@react-spring/three": "^10.0.1",
+    "@react-spring/web": "^10.0.1",
+    "@react-three/drei": "^10.5.0",
+    "@react-three/fiber": "^9.2.0",
+    "autoprefixer": "^10.4.21",
+    "d3": "^7.9.0",
+    "echarts": "^5.6.0",
+    "echarts-for-react": "^3.0.2",
+    "framer-motion": "^12.23.3",
+    "gsap": "^3.13.0",
+    "html2canvas": "^1.4.1",
+    "lucide-react": "^0.525.0",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.11",
+    "three": "^0.178.0",
+    "zustand": "^5.0.6"
+  },
+  "devDependencies": {
+    "@types/d3-geo": "^3.1.0",
+    "@types/three": "^0.178.1"
+  }
+}
